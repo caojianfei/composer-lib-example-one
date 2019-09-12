@@ -2,5 +2,6 @@
     "name": "caojianfei/composer-lib-example-one",
     "description": "composer 包示例 1",
     "type": "library",
-    "require": {}
+    "require": {},
+    "license": "MIT"
 }
